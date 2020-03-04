@@ -1,4 +1,4 @@
-![alt text](https://travis-ci.com/shadowlabscc/ProjectOpal.svg?branch=master)
+## Project Opal
 
 [![GitHub issues](https://img.shields.io/github/issues/shadowlabscc/ProjectOpal.svg)](https://github.com/shadowlabscc/ProjectOpal/issues)
 [![GitHub stars](https://img.shields.io/github/stars/shadowlabscc/ProjectOpal.svg)](https://github.com/shadowlabscc/ProjectOpal/stargazers)
