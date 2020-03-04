@@ -73,3 +73,21 @@ These are features that Shadowlabs Team prides themself on based on this program
 - Create a persistent admin account that is hidden
 - Obfuscated implant
 - Multi-functionality
+
+
+<pre>
+├── Injector
+│   ├── Dolly2.zip
+│   ├── Injector.py
+│   └── config.py
+├── Wordpress
+│   ├── 64fc9f8191afee3231e7197a27b8ee0c.php
+│   ├── index.php
+│   └── install.php
+├── lib
+│   ├── banner.txt
+│   ├── config.password
+│   ├── config.target
+│   └── persistent_head.txt
+└── opal.py
+</pre>
