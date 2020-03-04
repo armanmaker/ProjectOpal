@@ -1,4 +1,14 @@
-<h1>Project Opal</h1>
+<pre>
+
+ ____  ____   ___   ____    ___    __ ______       ___   ____   ____  _     
+|    \|    \ /   \ |    |  /  _]  /  ]      |     /   \ |    \ /    || |    
+|  o  )  D  )     ||__  | /  [_  /  /|      |    |     ||  o  )  o  || |    
+|   _/|    /|  O  |__|  ||    _]/  / |_|  |_|    |  O  ||   _/|     || |___ 
+|  |  |    \|     /  |  ||   [_/   \_  |  |      |     ||  |  |  _  ||     |
+|  |  |  .  \     \  `  ||     \     | |  |      |     ||  |  |  |  ||     |
+|__|  |__|\_|\___/ \____||_____|\____| |__|       \___/ |__|  |__|__||_____|
+                                                                            
+</pre>
 
 [![GitHub issues](https://img.shields.io/github/issues/shadowlabscc/ProjectOpal.svg)](https://github.com/shadowlabscc/ProjectOpal/issues)
 [![GitHub stars](https://img.shields.io/github/stars/shadowlabscc/ProjectOpal.svg)](https://github.com/shadowlabscc/ProjectOpal/stargazers)
