@@ -14,7 +14,9 @@ Stealth post-exploitation framework for Wordpress CMS
 ***Official ProjectOpal Repository.***
 
 # What is it and why was it made?
-We intentionally made it for our penetration testing jobs however its getting grey hairs now so we thought we would like to pass it on to the public!. ProjectOpal or Opal. Is a stealth post exploit framework for wordpress sites that can hide its trace from logs and obfuscate it's way through the system! :)
+We intentionally made it for our penetration testing jobs however its getting grey hairs now so we thought we would like to pass it on to the public!. ProjectOpal or Opal.
+<br>
+Is a stealth post exploit framework for wordpress sites that can hide its trace from logs and obfuscate it's way through the system! :)<br>
 Fun cool features it creates a admin user that is hidden from all users including admins! just note its stored in the database so don't forget to delete your traces.
 
 <img src="https://i.imgur.com/dPd8AHt.png">
