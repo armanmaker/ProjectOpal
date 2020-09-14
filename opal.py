@@ -53,13 +53,13 @@ class color:
 	backWhite = '\033[47m'
 
 time.sleep(0.1)
-print "[\033[1;92m?\033[0m] Initializing Global State"
+print "[\033[1;92m?\033[1m] Initializing Global State"
 time.sleep(0.2)
-print "[\033[1;92m?\033[0m] Detected Version => %s" % (version)
+print "[\033[1;92m?\033[1m] Detected Version => %s" % (version)
 time.sleep(0.1)
-print "[\033[1;92m?\033[0m] Target Config => %s" % (open("lib/config.target", "r").read())
+print "[\033[1;92m?\033[1m] Target Config => %s" % (open("lib/config.target", "r").read())
 time.sleep(0.1)
-print "[\033[1;92m?\033[0m] Password Config => %s" % (open("lib/config.password").read())
+print "[\033[1;92m?\033[1m] Password Config => %s" % (open("lib/config.password").read())
 time.sleep(0.1)
 
 if requests.get(open("lib/config.target").read() + "64fc9f8191afee3231e7197a27b8ee0c.php").status_code == 200:
